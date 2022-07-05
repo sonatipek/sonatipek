@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonatipek&show_icons=true&theme=onedark&locale=en&layout=compact" alt="sonatipek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonatipek&show_icons=true&theme=onedark&locale=en" alt="sonatipek" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonatipek&theme=dark" alt="sonatipek" /></p>
