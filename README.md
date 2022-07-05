@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonat S. İpek</h1>
 <h3 align="center">Computer Programming student at Ege University.</h3>
 
+<p align="left"> <a href="https://twitter.com/sonatipek" target="blank"><img src="https://img.shields.io/twitter/follow/sonatipek?logo=twitter&style=for-the-badge" alt="sonatipek" /></a> </p>
+
 - 🔭 I’m currently working on [You'r List](https://yourlist.sonatipek.com)
 
 - 🌱 I’m currently learning **Vue.js**
@@ -11,17 +13,13 @@
 
 - 📫 How to reach me: **sonatsayginipek@gmail.com**
 
-- ⚡ Fun fact **I think computers are stupid and just we tell them what to do... :D**
+- ⚡ Fun fact: **I think computers are stupid and just we tell them what to do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sonatipek" height="30" width="40" /></a>
 <a href="https://twitter.com/sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sonatipek" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonatipek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18486058" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18486058" height="30" width="40" /></a>
 <a href="https://instagram.com/sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sonatipek" height="30" width="40" /></a>
-<a href="https://medium.com/@sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sonatipek" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sonatipek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonatipek" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonatipek&show_icons=true&theme=onedark&locale=en&layout=compact" alt="sonatipek" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonatipek&show_icons=true&theme=onedark&locale=en" alt="sonatipek" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonatipek&theme=dark" alt="sonatipek" /></p>
