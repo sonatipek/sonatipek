@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [You'r List](https://yourlist.sonatipek.com)
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **SASS/SCSS**
 
 - 👨‍💻 All of my projects are available at [https://sonatipek.com](https://sonatipek.com)
 
