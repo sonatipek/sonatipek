@@ -2,7 +2,7 @@
 <b>I'm Computer Programming student at Ege University and Front-end Developer</b>
 <br><br>
 🔭 I’m currently working on "Unily"<br>
-🌱 I’m currently learning "Astro.js"<br>
+🌱 I’m currently learning "Express.js"<br>
 ⚡ "I think computers are stupid and just we tell them what to do."<br>
 📫 How to reach me sonatsayginipek@gmail.com or sonatipek.com
 
