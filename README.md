@@ -4,7 +4,7 @@
 🔭 I’m currently working on "Unily"<br>
 🌱 I’m currently learning "Express.js"<br>
 ⚡ "I think computers are stupid and just we tell them what to do."<br>
-📫 How to reach me sonatsayginipek@gmail.com or sonatipek.com
+📫 You can reach me at sonatsayginipek@gmail.com or sonatipek.com.
 
 
 ## 🌐 Socials:
