@@ -1,5 +1,5 @@
 # 💫 About Me:
-<b>Sonat Saygın İpek is a computer programming student at Ege University.
+<b>Sonat Saygın İpek is a computer programming student at Ege University.<br>
 </b>He is also a freelance <b>front-end developer</b>.
 <br><br>
 🔭 I’m currently working on "Unily"<br>
