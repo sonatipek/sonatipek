@@ -47,6 +47,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=sonatipek&icon=2&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sonatipek&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
