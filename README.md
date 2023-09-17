@@ -38,16 +38,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sonatipek&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sonatipek&theme=prussian&hide_border=true)<br/>
-
-![]([https://github-readme-stats.vercel.app/api/top-langs/?username=sonatipek&theme=prussian&hide_border=true&include_all_commits=false&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=sonatipek&langs_count=5&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en))
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonatipek&theme=prussian&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sonatipek&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sonatipek&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sonatipek&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
