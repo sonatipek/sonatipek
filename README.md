@@ -1,11 +1,6 @@
 # 💫 About Me:
 <p>Sonat Saygın İpek is a freelance <b>front-end developer</b>.
 <br><br>
-🔭 I’m currently working on "Unily"<br>
-🌱 I’m currently learning "Express.js"<br>
-⚡ "I think computers are stupid and just we tell them what to do."<br>
-📫 You can reach me at sonatsayginipek@gmail.com or sonatipek.com.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sonatipek)
