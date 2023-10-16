@@ -1,5 +1,3 @@
-![Frame 1](https://github.com/sonatipek/sonatipek/assets/80075444/bdf758cb-609e-465e-92a4-310609afd0f1)
-
 # 💫 About Me:
 <p>Sonat Saygın İpek is a freelance <b>front-end developer</b>.
 <br><br>
