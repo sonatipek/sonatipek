@@ -1,3 +1,5 @@
+![Frame 1](https://github.com/sonatipek/sonatipek/assets/80075444/8798e526-94ba-4d4d-9e94-6fcb74f06fd2)
+
 ![Frame 1](https://github.com/sonatipek/sonatipek/assets/80075444/8ad5c5dd-61b6-43d1-96dc-c4f4bf253261)
 
 # 📊 GitHub Stats:
