@@ -1,6 +1,5 @@
-
-![Frame 1](https://github.com/sonatipek/sonatipek/assets/80075444/de26c8cc-31b5-4c4a-ad9e-6d2852b2e598)
-
+# Welcome 👋🏻
+![Readme](https://github.com/sonatipek/sonatipek/assets/80075444/95d4d357-4dbc-42e9-ae23-f3432e471aa3)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sonatipek&theme=prussian&hide_border=true&include_all_commits=false&count_private=true)
