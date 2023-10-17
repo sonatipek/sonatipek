@@ -1,4 +1,6 @@
 # Welcome 👋🏻
+![Frame 1](https://github.com/sonatipek/sonatipek/assets/80075444/f3b33ea1-77e2-41a9-9b0e-caec44b7db81)
+
 ![Readme](https://github.com/sonatipek/sonatipek/assets/80075444/95d4d357-4dbc-42e9-ae23-f3432e471aa3)
 
 # 📊 GitHub Stats:
