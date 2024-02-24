@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=24&duration=2000&pause=2000&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Sonat+%F0%9F%91%8B%F0%9F%8F%BB+;I'm+a+passionate+Frontend+Developer+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 <hr />
+
 ![Readme](https://github.com/sonatipek/sonatipek/assets/80075444/4096f079-d88e-48cb-869c-f2ecdd1868e2)
 
 # 📊 GitHub Stats:
