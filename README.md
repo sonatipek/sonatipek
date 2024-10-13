@@ -2,7 +2,7 @@
 <hr />
 
 # 💫 About Me:
-Passionate Frontend Developer<br>Learning through development, developing through learning.<br><br>🎯 I'm currently working on my project called "rehberin"<br><br>If you are curious about more, please feel free to contact me.
+**Passionate Frontend Developer**<br>_Learning through development, developing through learning._<br><br>🎯 I'm currently working on my project called "rehberin"<br><br>If you are curious about more, please feel free to contact me.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sonatipek) [![X - Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sonatipek) 
@@ -15,7 +15,7 @@ Passionate Frontend Developer<br>Learning through development, developing throug
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
